@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Xuition]]></title>
+  
+  <link href="//atom.xml" rel="self"/>
+  <link href="http://www.xuition.net/"/>
+  <updated>2019-02-18T03:40:21.484Z</updated>
+  <id>http://www.xuition.net/</id>
+  
+  <author>
+    <name><![CDATA[Gary B. Genett]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.xuition.net/2019/02/17/README/"/>
+    <id>http://www.xuition.net/2019/02/17/README/</id>
+    <published>2019-02-18T04:09:46.049Z</published>
+    <updated>2019-02-18T03:40:21.484Z</updated>
+    <content type="html"><![CDATA[<p>Website for <a href="http://www.xuition.net">Xuition</a>:</p>
+<ul>
+<li>Created using <a href="https://github.com/garybgenett/composer" target="_blank" rel="external">Composer</a> integration with <a href="https://hexo.io" target="_blank" rel="external">Hexo</a></li>
+<li>Hosted on <a href="https://pages.github.com" target="_blank" rel="external">GitHub Pages</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Website for <a href="http://www.xuition.net">Xuition</a>:</p>
+<ul>
+<li>Created using <a href="https://github.com/garybgenett/composer" ta]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
